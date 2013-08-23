@@ -6,11 +6,12 @@
 </head>
 
 <body>
-<pre>&lt;HTML&gt;
+<pre>&lt;html&gt;
+   &lt;head&gt;Test page&lt;/head&gt;
 
-   &lt;BODY&gt;
-      &lt;?php      echo &quot;Hello world!&quot;;    ?&gt;
-   &lt;/BODY&gt;
-&lt;/HTML&gt;</pre>
+   &lt;body&gt;
+      &lt;?php echo &quot;Hello, This is on Github!!&quot;; ?&gt;
+   &lt;/body&gt;
+&lt;/html&gt;</pre>
 </body>
 </html>
